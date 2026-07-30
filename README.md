@@ -29,7 +29,7 @@ While building this project, I practiced:
 
 ## Live Demo
 
-👉 https://yourusername.github.io/repository-name/
+👉 [https://yourusername.github.io/repository-name/](https://kinanedev.me/Counter/)
 
 
 ## Future Improvements
